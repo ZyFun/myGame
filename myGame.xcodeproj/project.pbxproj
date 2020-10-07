@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2CB5A950252E2B84003F0317 /* screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CB5A94F252E2B83003F0317 /* screen.png */; };
+		2CB5A955252E2F01003F0317 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2CB5A954252E2F01003F0317 /* README.md */; };
 		2CCDA6CA252650A4006F0D69 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCDA6C9252650A4006F0D69 /* AppDelegate.swift */; };
 		2CCDA6CC252650A4006F0D69 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CCDA6CB252650A4006F0D69 /* art.scnassets */; };
 		2CCDA6CE252650A4006F0D69 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCDA6CD252650A4006F0D69 /* GameViewController.swift */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		2CB5A94F252E2B83003F0317 /* screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen.png; sourceTree = "<group>"; };
+		2CB5A954252E2F01003F0317 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		2CCDA6C6252650A4006F0D69 /* myGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CCDA6C9252650A4006F0D69 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2CCDA6CB252650A4006F0D69 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 		2CCDA6C8252650A4006F0D69 /* myGame */ = {
 			isa = PBXGroup;
 			children = (
+				2CB5A954252E2F01003F0317 /* README.md */,
 				2CB5A952252E2B8A003F0317 /* Screenshots */,
 				2CCDA6C9252650A4006F0D69 /* AppDelegate.swift */,
 				2CCDA6CB252650A4006F0D69 /* art.scnassets */,
@@ -134,6 +137,7 @@
 			files = (
 				2CCDA6CC252650A4006F0D69 /* art.scnassets in Resources */,
 				2CB5A950252E2B84003F0317 /* screen.png in Resources */,
+				2CB5A955252E2F01003F0317 /* README.md in Resources */,
 				2CCDA6D3252650A6006F0D69 /* Assets.xcassets in Resources */,
 				2CCDA6D1252650A4006F0D69 /* Main.storyboard in Resources */,
 			);
